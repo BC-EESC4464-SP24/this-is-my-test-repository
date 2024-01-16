@@ -1,2 +1,6 @@
 Example. I am adding more text!
+<<<<<<< HEAD
 This is Forest adding even more text! Today is Jan. 16.
+=======
+This is Forest adding even more text! I am changing this first!
+>>>>>>> d1c62229b6beb033bed443d4486807494035ab2b
